@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BiblioTDD.app/1.0.0": {
+        "dependencies": {
+          "BiblioTDD.Models": "1.0.0"
+        },
+        "runtime": {
+          "BiblioTDD.app.dll": {}
+        }
+      },
+      "BiblioTDD.Models/1.0.0": {
+        "runtime": {
+          "BiblioTDD.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiblioTDD.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BiblioTDD.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

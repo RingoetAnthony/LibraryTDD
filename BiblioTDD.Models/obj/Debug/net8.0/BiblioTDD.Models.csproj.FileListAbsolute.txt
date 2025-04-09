@@ -1,0 +1,12 @@
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\bin\Debug\net8.0\BiblioTDD.Models.deps.json
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\bin\Debug\net8.0\BiblioTDD.Models.dll
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\bin\Debug\net8.0\BiblioTDD.Models.pdb
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.AssemblyInfoInputs.cache
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.AssemblyInfo.cs
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.csproj.CoreCompileInputs.cache
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.sourcelink.json
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.dll
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\refint\BiblioTDD.Models.dll
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\BiblioTDD.Models.pdb
+C:\Users\a.ringoet\Source\Repos\BiblioTDD\BiblioTDD.Models\obj\Debug\net8.0\ref\BiblioTDD.Models.dll
