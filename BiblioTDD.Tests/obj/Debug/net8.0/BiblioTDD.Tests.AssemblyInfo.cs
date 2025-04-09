@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiblioTDD.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9778ac9e4a8c3d3ecded9176f687ec11c6fd549")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0be61716cff52847941adf6c215f57023b74af81")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiblioTDD.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiblioTDD.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

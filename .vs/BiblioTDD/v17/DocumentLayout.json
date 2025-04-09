@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437DDE82-A57C-4B0A-85D7-0C6D89E039D0}|BiblioTDD.Tests\\BiblioTDD.Tests.csproj|c:\\users\\a.ringoet\\source\\repos\\librarytdd\\bibliotdd.tests\\bookcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437DDE82-A57C-4B0A-85D7-0C6D89E039D0}|BiblioTDD.Tests\\BiblioTDD.Tests.csproj|solutionrelative:bibliotdd.tests\\bookcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C91679-28E9-4DB0-83EA-F196228D7062}|BiblioTDD.Models\\BiblioTDD.Models.csproj|c:\\users\\a.ringoet\\source\\repos\\librarytdd\\bibliotdd.models\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C91679-28E9-4DB0-83EA-F196228D7062}|BiblioTDD.Models\\BiblioTDD.Models.csproj|solutionrelative:bibliotdd.models\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E866FF-82B8-4CE5-826C-3B92DC4CE47E}|BiblioTDD.app\\BiblioTDD.app.csproj|c:\\users\\a.ringoet\\source\\repos\\librarytdd\\bibliotdd.app\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E866FF-82B8-4CE5-826C-3B92DC4CE47E}|BiblioTDD.app\\BiblioTDD.app.csproj|solutionrelative:bibliotdd.app\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.Tests\\BookControllerTest.cs",
+              "RelativeDocumentMoniker": "BiblioTDD.Tests\\BookControllerTest.cs",
+              "ToolTip": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.Tests\\BookControllerTest.cs",
+              "RelativeToolTip": "BiblioTDD.Tests\\BookControllerTest.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAnwJwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:12:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.Models\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BiblioTDD.Models\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.Models\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BiblioTDD.Models\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:15:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.app\\BookController.cs",
+              "RelativeDocumentMoniker": "BiblioTDD.app\\BookController.cs",
+              "ToolTip": "C:\\Users\\a.ringoet\\source\\repos\\LibraryTDD\\BiblioTDD.app\\BookController.cs",
+              "RelativeToolTip": "BiblioTDD.app\\BookController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:10:51.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,18 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTDD.Models", "BiblioTDD.Models\BiblioTDD.Models.csproj", "{F9C91679-28E9-4DB0-83EA-F196228D7062}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTDD.Tests", "BiblioTDD.Tests\BiblioTDD.Tests.csproj", "{437DDE82-A57C-4B0A-85D7-0C6D89E039D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioTDD.app", "BiblioTDD.app\BiblioTDD.app.csproj", "{B8E866FF-82B8-4CE5-826C-3B92DC4CE47E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70BC9344-73F8-48AC-8F77-D15B27FE0936}"
-	ProjectSection(SolutionItems) = preProject
-		.gitlab-ci.yml = .gitlab-ci.yml
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

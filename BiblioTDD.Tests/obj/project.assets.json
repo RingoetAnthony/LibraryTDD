@@ -5677,11 +5677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.Tests\\BiblioTDD.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.Tests\\BiblioTDD.Tests.csproj",
       "projectName": "BiblioTDD.Tests",
-      "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.Tests\\BiblioTDD.Tests.csproj",
+      "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.Tests\\BiblioTDD.Tests.csproj",
       "packagesPath": "C:\\Users\\a.ringoet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.Tests\\obj\\",
+      "outputPath": "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5705,11 +5705,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.app\\BiblioTDD.app.csproj": {
-              "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.app\\BiblioTDD.app.csproj"
+            "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.app\\BiblioTDD.app.csproj": {
+              "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.app\\BiblioTDD.app.csproj"
             },
-            "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.Models\\BiblioTDD.Models.csproj": {
-              "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\BiblioTDD\\BiblioTDD.Models\\BiblioTDD.Models.csproj"
+            "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.Models\\BiblioTDD.Models.csproj": {
+              "projectPath": "C:\\Users\\a.ringoet\\Source\\Repos\\LibraryTDD\\BiblioTDD.Models\\BiblioTDD.Models.csproj"
             }
           }
         }

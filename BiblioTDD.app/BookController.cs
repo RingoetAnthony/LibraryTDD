@@ -55,12 +55,10 @@ namespace BiblioTDD.app
             if (book.Copies < 0)
                 throw new ArgumentException("Le nombre de copies ne peut pas être négatif");
 
-            // Ajout du nombre de copies
             existingBook.Copies += book.Copies;
 
             try
             {
-                // Assurez-vous que cette ligne est bien appelée
                 _service.UpdateBook(existingBook);
                 return true;
             }
